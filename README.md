@@ -1,3 +1,6 @@
+Requires numpy, tkinter and random (standard package).
+To install numpy use: pip install numpy
+
 This file shows an example Tkinter GUI. The GUI allows the user to vary the RF voltage and phase of the bucket.
 
 Possible extensions:
